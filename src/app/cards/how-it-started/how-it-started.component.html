@@ -1,0 +1,20 @@
+<div
+    class="bg-white dark:bg-gray-800 col-span-2 md:col-span-1 lg:col-span-2 rounded-[30px] p-6 lg:p-10 min-h-[280px] flex flex-col justify-between hover:shadow-lg hover:shadow-gray-300 dark:hover:shadow-gray-900 transition-all duration-300">
+    <div>
+        <h2 class="font-extrabold text-gray-900 dark:text-white text-[22px] lg:text-[26px] leading-tight mb-4">How it started vs.<br/>how it's going</h2>
+        <p class="font-normal text-gray-600 dark:text-gray-300 text-sm lg:text-base leading-relaxed">A short personal history as it relates to design and development, and how I've found value in the cross-section between both disciplines.</p>
+    </div>
+    <div class="flex justify-between items-center mt-6">
+        <a routerLink="/about">
+            <button
+                class="rounded-full bg-gray-100 dark:bg-gray-700 relative flex items-center gap-2 hover:ring-4 ring-gray-200 py-2 px-5 dark:text-white dark:ring-gray-500 hover:transition duration-300 ease-in-out text-sm font-medium">
+                Read More
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M7 17L17 7"/>
+                    <path d="M7 7h10v10"/>
+                </svg>
+            </button>
+        </a>
+        <p class="text-gray-400 dark:text-gray-500 text-sm">{{date}}</p>
+    </div>
+</div>
