@@ -85,16 +85,6 @@
                     class="bg-orange-100 text-orange-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded-full dark:bg-orange-900 dark:text-orange-300">Personal
                     Project</span>
                 }
-                <!-- Project status -->
-                @if (project.status == true) {
-                <span
-                    class="bg-green-100 text-green-800 text-xs font-medium px-2.5 py-0.5 rounded-full dark:bg-green-900 dark:text-green-300">Open</span>
-                }@else {
-                <span
-                    class="bg-red-100 text-red-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded-full dark:bg-red-900 dark:text-red-300">Closed</span>
-                }
-                <!-- date -->
-                <p class="text-gray-500 text-sm">{{project.date}}</p>
             </div>
 
         </div>
