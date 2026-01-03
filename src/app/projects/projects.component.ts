@@ -74,7 +74,7 @@ export class ProjectsComponent {
     },
     {
       name: "Mobile Wallet",
-      description: "A digital wallet application with secure payment processing and REST API integration.",
+      description: "A digital wallet application built with Kotlin Multiplatform featuring secure payment processing and REST API integration.",
       image: "assets/img/projects/mobile-wallet.webp",
       github: "https://github.com/Vijay-2005/mobile-wallet",
       view: false,

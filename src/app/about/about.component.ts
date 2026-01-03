@@ -26,7 +26,7 @@ export class AboutComponent {
   }
 
   // Array of data
-  aboutme: string = `Software Engineer specializing in Agentic AI and system architecture. Experienced in designing and implementing AI agents and integrating external tools using frameworks like the Model Context Protocol (MCP). Proven ability to architect stateful, multi-tool orchestration systems with LangGraph and manage complex agent workflows.`;
+  aboutme: string = `AI/ML engineer specializing in agentic AI systems and ML workflows. Built production AI agents with LangGraph and MCP integrations at Hyperbots, conducted deep learning research at <strong>Samsung</strong>, and now applying ML-hardware expertise at <strong>Qualcomm</strong> to bridge intelligent software with cutting-edge silicon.`;
 
   work: Array<any> = [
     {

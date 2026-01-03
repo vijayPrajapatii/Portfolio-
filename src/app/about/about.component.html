@@ -8,8 +8,7 @@
             <img class="hover-image w-full h-full object-cover rounded-full" src="assets/img/mepopper.png" alt="hover image">
         </div>
         <div class="relative">
-            <p class="font-normal text-gray-600 dark:text-gray-300 text-base leading-relaxed">
-                {{ aboutme }}
+            <p class="font-normal text-gray-600 dark:text-gray-300 text-base leading-relaxed" [innerHTML]="aboutme">
             </p>
         </div>
     </div>
