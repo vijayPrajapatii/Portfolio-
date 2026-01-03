@@ -1,0 +1,32 @@
+
+.pacifico-regular {
+    font-family: "Pacifico";
+    font-weight: 600;
+}
+
+/* Colorful gradient name like nev */
+.name-gradient {
+    background: linear-gradient(90deg, #f472b6, #facc15, #4ade80, #22d3d3);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    font-family: 'Inter', 'Segoe UI', sans-serif;
+    letter-spacing: -0.02em;
+}
+
+/* Define the keyframes for the click effect */
+@keyframes click-effect {
+    0% {
+        transform: scale(1);
+    }
+
+    50% {
+        transform: scale(0.9);
+    }
+
+    100% {
+        transform: scale(1);
+    }
+}
+
+/* Add the animation class */
