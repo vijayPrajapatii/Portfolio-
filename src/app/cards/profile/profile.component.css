@@ -38,3 +38,12 @@
 .hover-trigger:hover .hover-image {
     opacity: 1;
 }
+
+/* Ensure popup is visible on mobile */
+:host {
+    overflow: visible !important;
+}
+
+.popUp {
+    z-index: 50;
+}
