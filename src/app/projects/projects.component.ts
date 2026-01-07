@@ -116,6 +116,46 @@ export class ProjectsComponent {
         },
       ]
     },
+    {
+      name: "Currency Converter",
+      description: "A real-time currency converter application with live exchange rates and intuitive user interface.",
+      image: "assets/img/projects/currency-converter.webp",
+      github: "https://github.com/Vijay-2005/CurrencyConverter",
+      view: "https://currencii.netlify.app/",
+      date: "2024",
+      tech: [
+        {
+          name: "HTML5",
+          image: "assets/img/html5.svg",
+        },
+        {
+          name: "JavaScript",
+          image: "assets/img/js.svg",
+        },
+        {
+          name: "CSS3",
+          image: "assets/img/css3.svg",
+        },
+      ]
+    },
+    {
+      name: "Todo App",
+      description: "A feature-rich todo application built with React featuring user authentication and task management.",
+      image: "assets/img/projects/todo-app.webp",
+      github: "https://github.com/Vijay-2005/todo_app_react",
+      view: "https://todo-app-react-one-rosy.vercel.app/login",
+      date: "2024",
+      tech: [
+        {
+          name: "React",
+          image: "assets/img/react.svg",
+        },
+        {
+          name: "JavaScript",
+          image: "assets/img/js.svg",
+        },
+      ]
+    },
   ];
 
 }
