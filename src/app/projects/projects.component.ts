@@ -99,7 +99,7 @@ export class ProjectsComponent {
       description: "An e-commerce platform for wedding cards and invitations with modern design and smooth user experience.",
       image: "assets/img/projects/wedding-cards.webp",
       github: false,
-      view: "https://wedding-cards-five.vercel.app/",
+      view: "https://veercards-belagavi.vercel.app/",
       date: "2024",
       tech: [
         {
