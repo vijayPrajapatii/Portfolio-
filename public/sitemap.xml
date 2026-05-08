@@ -7,7 +7,7 @@
 
   <!-- Homepage -->
   <url>
-    <loc>https://vijay.software/</loc>
+    <loc>https://vijayprajapati.vercel.app/</loc>
     <lastmod>2026-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -15,7 +15,7 @@
 
   <!-- Home Section -->
   <url>
-    <loc>https://vijay.software/home</loc>
+    <loc>https://vijayprajapati.vercel.app/home</loc>
     <lastmod>2026-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
@@ -23,7 +23,7 @@
 
   <!-- Projects / Portfolio -->
   <url>
-    <loc>https://vijay.software/projects</loc>
+    <loc>https://vijayprajapati.vercel.app/projects</loc>
     <lastmod>2026-05-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -31,7 +31,7 @@
 
   <!-- About / Resume -->
   <url>
-    <loc>https://vijay.software/about</loc>
+    <loc>https://vijayprajapati.vercel.app/about</loc>
     <lastmod>2026-05-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -39,7 +39,7 @@
 
   <!-- Blog or Articles -->
   <url>
-    <loc>https://vijay.software/blog</loc>
+    <loc>https://vijayprajapati.vercel.app/blog</loc>
     <lastmod>2026-05-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -47,7 +47,7 @@
 
   <!-- Contact Page -->
   <url>
-    <loc>https://vijay.software/contact</loc>
+    <loc>https://vijayprajapati.vercel.app/contact</loc>
     <lastmod>2026-05-08</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>

@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://vijay.software/sitemap.xml
+Sitemap: https://vijayprajapati.vercel.app/sitemap.xml
