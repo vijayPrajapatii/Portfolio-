@@ -14,7 +14,7 @@ export class ProjectsComponent {
       name: "AI Powered Grocery App",
       description: "An AI-powered grocery shopping application with intelligent recommendations and seamless user experience.",
       image: "assets/img/projects/grocery-app.webp",
-      github: "https://github.com/Vijay-2005/vijaydevReactVite",
+      github: "https://github.com/vijayPrajapatii/vijaydevReactVite",
       view: "https://www.fresh-cart.live/",
       date: "2024",
       tech: [
@@ -55,7 +55,7 @@ export class ProjectsComponent {
       description: "An AI-powered platform leveraging Langgraph for advanced AI agent workflows and intelligent system integration.",
       image: "assets/img/projects/silicon-synapse.webp",
       github: false,
-      view: "https://www.siliconsynapse.in/",
+      view: "https://silicon-synapse.vercel.app/",
       date: "2025",
       tech: [
         {
@@ -76,7 +76,7 @@ export class ProjectsComponent {
       name: "Mobile Wallet",
       description: "A digital wallet application built with Kotlin Multiplatform featuring secure payment processing and REST API integration.",
       image: "assets/img/projects/mobile-wallet.webp",
-      github: "https://github.com/Vijay-2005/mobile-wallet",
+      github: "https://github.com/vijayPrajapatii/mobile-wallet",
       view: false,
       date: "2024",
       tech: [
@@ -120,7 +120,7 @@ export class ProjectsComponent {
       name: "Currency Converter",
       description: "A real-time currency converter application with live exchange rates and intuitive user interface.",
       image: "assets/img/projects/currency-converter.webp",
-      github: "https://github.com/Vijay-2005/CurrencyConverter",
+      github: "https://github.com/vijayPrajapatii/CurrencyConverter",
       view: "https://currencii.netlify.app/",
       date: "2024",
       tech: [
@@ -142,7 +142,7 @@ export class ProjectsComponent {
       name: "Todo App",
       description: "A feature-rich todo application built with React featuring user authentication and task management.",
       image: "assets/img/projects/todo-app.webp",
-      github: "https://github.com/Vijay-2005/todo_app_react",
+      github: "https://github.com/vijayPrajapatii/todo_app_react",
       view: "https://todo-app-react-one-rosy.vercel.app/login",
       date: "2024",
       tech: [

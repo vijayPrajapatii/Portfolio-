@@ -30,6 +30,32 @@ export class AboutComponent {
 
   work: Array<any> = [
     {
+      id: 7,
+      company: 'Qualcomm',
+      position: 'Intern',
+      time_period: 'Jan 2026 - Present',
+      place: 'Bangalore, Karnataka, India',
+      overview:
+        'Qualcomm is a global leader in wireless technology and semiconductor innovation, powering billions of devices with cutting-edge chipsets and software.',
+      my_role:
+        'Working on test automation using Python to streamline and improve the efficiency of internal testing workflows. Developing automated scripts and frameworks to support hardware and software validation pipelines.',
+      impact:
+        'Accelerating test coverage and reducing manual effort through Python-based automation, contributing to faster validation cycles for Qualcomm\'s products.',
+      projects: [],
+      tech: [
+        {
+          name: 'Python',
+          link: 'https://python.org/',
+          image: 'assets/img/python.svg',
+        },
+        {
+          name: 'Automation',
+          link: 'https://python.org/',
+          image: 'assets/img/python.svg',
+        },
+      ],
+    },
+    {
       id: 1,
       company: 'Hyperbots Inc.',
       position: 'Applied ML Intern (Full-Time, On-Site)',
